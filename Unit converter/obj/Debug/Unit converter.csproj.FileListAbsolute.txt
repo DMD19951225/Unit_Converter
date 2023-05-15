@@ -1,0 +1,18 @@
+E:\C# and Cpp_project_finished\canada6_7\Unit converter\Unit converter\bin\Debug\Unit converter.exe.config
+E:\C# and Cpp_project_finished\canada6_7\Unit converter\Unit converter\bin\Debug\Unit converter.exe
+E:\C# and Cpp_project_finished\canada6_7\Unit converter\Unit converter\bin\Debug\Unit converter.pdb
+E:\C# and Cpp_project_finished\canada6_7\Unit converter\Unit converter\obj\Debug\Unit converter.csprojAssemblyReference.cache
+E:\C# and Cpp_project_finished\canada6_7\Unit converter\Unit converter\obj\Debug\Unit_converter.Form1.resources
+E:\C# and Cpp_project_finished\canada6_7\Unit converter\Unit converter\obj\Debug\Unit_converter.Properties.Resources.resources
+E:\C# and Cpp_project_finished\canada6_7\Unit converter\Unit converter\obj\Debug\Unit converter.csproj.GenerateResource.cache
+E:\C# and Cpp_project_finished\canada6_7\Unit converter\Unit converter\obj\Debug\Unit converter.exe
+E:\C# and Cpp_project_finished\canada6_7\Unit converter\Unit converter\obj\Debug\Unit converter.pdb
+E:\C# and Cpp_project_finished\tabassum_canada_unit converter\Unit converter\Unit converter\bin\Debug\Unit converter.exe.config
+E:\C# and Cpp_project_finished\tabassum_canada_unit converter\Unit converter\Unit converter\bin\Debug\Unit converter.exe
+E:\C# and Cpp_project_finished\tabassum_canada_unit converter\Unit converter\Unit converter\bin\Debug\Unit converter.pdb
+E:\C# and Cpp_project_finished\tabassum_canada_unit converter\Unit converter\Unit converter\obj\Debug\Unit converter.csprojAssemblyReference.cache
+E:\C# and Cpp_project_finished\tabassum_canada_unit converter\Unit converter\Unit converter\obj\Debug\Unit_converter.Form1.resources
+E:\C# and Cpp_project_finished\tabassum_canada_unit converter\Unit converter\Unit converter\obj\Debug\Unit_converter.Properties.Resources.resources
+E:\C# and Cpp_project_finished\tabassum_canada_unit converter\Unit converter\Unit converter\obj\Debug\Unit converter.csproj.GenerateResource.cache
+E:\C# and Cpp_project_finished\tabassum_canada_unit converter\Unit converter\Unit converter\obj\Debug\Unit converter.exe
+E:\C# and Cpp_project_finished\tabassum_canada_unit converter\Unit converter\Unit converter\obj\Debug\Unit converter.pdb
